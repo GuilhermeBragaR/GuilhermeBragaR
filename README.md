@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBragaR&size_weight=0.5&count_weight=0.5)
 
-![Guilherme Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBragaR&hide=contribs,prs)
-
 ## Tecnologia que uso no meu dia
 
 <div style="displey: inline_block">
